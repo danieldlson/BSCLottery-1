@@ -41,7 +41,7 @@ contract LotteryGenerator is Ownable {
     mapping(address => lottery) lotteryStructs;
 
     address private LotteryOwner;
-    address private potDirector=0x893300D805A6dB7d4E691Fa7679dB53C94802cDE;  
+    address private potDirector=0xE04fCeA66B0Cb00F192eABa6262f0e4DB90D3C07;  
 
     address[] public LotteryWinnersArray;
     uint[] public LotteryWinnersArrayPrizes;
