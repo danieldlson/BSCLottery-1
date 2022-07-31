@@ -11,10 +11,10 @@ var LotteryMultiSigWallet= artifacts.require("./LotteryMultiSigWallet.sol");
 // const VRFv2ConsumerAddress = "0x1e481086668e91bacad76e58ecd015062d22cea9";  // BSC Testnet  ID:706  Owner: 0x893300d805a6db7d4e691fa7679db53c94802cde
 // const VRFv2ConsumerAddress = "" 
 
-const OwnerNoOne = "0xbf665F71d93B9Ec85d05A05529cDaC90e97d1034" ; 
-const OwnerNoTwo = "0x42651d187Fc5f75dFA8349364b705F1F47819C12" ; 
-const OwnerNoThree = "0x5d86E2609d5f41227846BC838B0D571FbaBab182" ; 
-const OwnerNoFour = "0xc6A0C1C4b860ddfe653CA59bF814a3061dE876C0" ; 
+const OwnerNoOne = "0x99Ac8401655c6aF36D12f640B9F8Ab7Ab1Cfbd0E" ; 
+const OwnerNoTwo = "0x615A5D5C1Ec580E121732280e7568F6D36CBb9C5" ; 
+const OwnerNoThree = "0x2aFC1E015D2bF2377D7E0708fAB1b294e6814131" ; 
+const OwnerNoFour = "0x3D7e71A89e2E6e115A5E64035d8Fe16AaD233BA5" ; 
 
 
 // const SubscriptionID = 706;  // BSC TestNet
